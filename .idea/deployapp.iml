@@ -6,10 +6,11 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="deployapp node_modules" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="bundler (v1.3.5, RVM: ruby-2.0.0-p247 [ebrank]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="execjs (v2.0.2, RVM: ruby-2.0.0-p247 [ebrank]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="json (v1.8.1, RVM: ruby-2.0.0-p247 [ebrank]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rake (v10.1.0, RVM: ruby-2.0.0-p247 [ebrank]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="uglifier (v2.4.0, RVM: ruby-2.0.0-p247 [ebrank]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="i18n (v0.6.9, RVM: ruby-2.0.0-p247 [ebrank]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="net-scp (v1.1.2, RVM: ruby-2.0.0-p247 [ebrank]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="net-ssh (v2.8.0, RVM: ruby-2.0.0-p247 [ebrank]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sshkit (v1.3.0, RVM: ruby-2.0.0-p247 [ebrank]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="term-ansicolor (v1.3.0, RVM: ruby-2.0.0-p247 [ebrank]) [gem]" level="application" />
   </component>
 </module>
 
